@@ -1,0 +1,90 @@
+2026-08-01T03:58:35.564Z INFO Is remote: false
+2026-08-01T03:58:35.565Z INFO Starting Local. Installation path: c:\yukthi2
+2026-08-01T03:58:35.566Z INFO [MainProvider] Creating new MainProvider instance...
+2026-08-01T03:58:35.569Z INFO [TabsManager] Code view listener set up at initialization
+2026-08-01T03:58:35.571Z INFO Installation path exists: c:\yukthi2
+2026-08-01T03:58:35.572Z INFO Initializing database with URL: file:c:\yukthi2\pythagora-core\data\database\pythagora.db
+2026-08-01T03:58:35.578Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-08-01T03:58:35.578Z INFO Database initialized successfully
+2026-08-01T03:58:35.580Z INFO [Migration] Checking for database migration...
+2026-08-01T03:58:36.033Z INFO [Migration] No migration needed
+2026-08-01T04:16:10.798Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T04:16:10.798Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T04:22:14.368Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T04:22:14.368Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T04:25:51.348Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T04:25:51.349Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T04:26:16.019Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T04:26:16.020Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T04:26:21.061Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T04:26:21.062Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T04:32:19.348Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T04:32:19.349Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T04:56:17.588Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T04:56:17.588Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T04:56:20.228Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T04:56:20.229Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T04:56:41.630Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T04:56:41.631Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T04:57:21.912Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T04:57:21.913Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T05:07:15.749Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T05:07:15.750Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T05:07:22.161Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T05:07:22.162Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T05:07:28.165Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T05:07:28.166Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T05:07:32.642Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T05:07:32.643Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T05:07:44.818Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T05:07:44.818Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T05:07:50.266Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T05:07:50.266Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T05:07:53.401Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T05:07:53.402Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T05:07:58.152Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T05:07:58.153Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T05:08:18.812Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T05:08:18.813Z INFO [MainProvider] First file opened, creating split view
+2026-08-01T05:08:39.843Z INFO [TabsManager] First file opened, triggering split view
+2026-08-01T05:08:39.843Z INFO [MainProvider] First file opened, creating split view
+2026-08-02T02:46:05.768Z INFO Is remote: false
+2026-08-02T02:46:05.770Z INFO Starting Local. Installation path: c:\yukthi2
+2026-08-02T02:46:05.771Z INFO [MainProvider] Creating new MainProvider instance...
+2026-08-02T02:46:05.773Z INFO [TabsManager] Code view listener set up at initialization
+2026-08-02T02:46:05.774Z INFO Installation path exists: c:\yukthi2
+2026-08-02T02:46:05.775Z INFO Initializing database with URL: file:c:\yukthi2\pythagora-core\data\database\pythagora.db
+2026-08-02T02:46:05.778Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-08-02T02:46:05.779Z INFO Database initialized successfully
+2026-08-02T02:46:05.780Z INFO [Migration] Checking for database migration...
+2026-08-02T02:46:05.936Z INFO [Migration] No migration needed
+2026-08-02T16:24:53.649Z INFO Closing entire Pythagora extension...
+2026-08-02T16:24:53.792Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new Nx (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:435:152416)
+	at i._remoteCall (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:435:158468)
+	at r.<computed>.s.charCodeAt.r.<computed> (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:435:155263)
+	at jg._doExecuteCommand (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:535:48252)
+	at jg.executeCommand (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:535:47699)
+	at Object.executeCommand (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:673:138438)
+	at closeEntirePythagoraExtension (c:\Users\venkatshivamma\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+	at Object.deactivate (c:\Users\venkatshivamma\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+	at m_._deactivate (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:539:14930)
+	at file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:539:12457
+	at Array.map (<anonymous>)
+	at m_._deactivateAll (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:539:12445)
+	at m_.terminate (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:539:12796)
+	at i.terminate (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:541:1072)
+	at da (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:852:11797)
+	at Pp.value (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:852:9939)
+	at T._deliver (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:431:3244)
+	at T.fire (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:431:3562)
+	at fs.fire (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:433:8509)
+	at MessagePortMain.<anonymous> (file:///c:/Users/venkatshivamma/AppData/Local/Programs/Microsoft%20VS%20Code/1b6a188127/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:852:8171)
+	at MessagePortMain.emit (node:events:509:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at Object.emit (node:electron/js2c/utility_init:2:2934)
+Extra context: {
+  "message": "Canceled"
+}
